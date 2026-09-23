@@ -1,0 +1,11 @@
+# Conteúdo privado e credenciais
+private/
+downloads/
+*.env
+*.pem
+*.key
+*credential*
+*token*
+*senha*
+*cpf*
+*rg*
