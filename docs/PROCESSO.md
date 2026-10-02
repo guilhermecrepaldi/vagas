@@ -11,14 +11,15 @@
 ## Critérios atuais
 
 - Escopo: desenvolvimento, backend, full stack, dados, automação e IA aplicada.
-- Fora do escopo: comercial, vendas, suporte ao cliente e QA como foco principal.
-- Piso de referência: R$ 4.000 mensais. Salários sem divulgação permanecem elegíveis para análise, sem presunção de valor.
+- Fora do escopo: comercial, vendas, suporte ao cliente, QA como foco principal e vagas sênior, staff ou liderança.
+- Senioridade: priorizar júnior, trainee, assistente e entry level. Vagas pleno só entram quando os requisitos reais forem compatíveis com um perfil júnior; o título, isoladamente, não basta.
+- Piso de referência: R$ 3.000 mensais. Salários sem divulgação permanecem elegíveis para análise, sem presunção de valor.
 - Formação: Análise e Desenvolvimento de Sistemas em fase final, com conclusão prevista para dezembro de 2026.
 - Vagas com “cursando ou completo” ou sem exigência acadêmica explícita são elegíveis. Vagas que exigem graduação completa, diploma ou histórico acadêmico devem ser marcadas como restritas até a conclusão.
 
 ## Avaliações e entrevistas
 
-Testes escritos podem ser registrados e preparados. Etapas que exijam áudio, vídeo, câmera, microfone ou compartilhamento de tela exigem participação pessoal do candidato e não devem ser automatizadas.
+Testes, mapeamentos comportamentais e avaliações técnicas podem ser registrados e preparados, mas devem ser realizados pessoalmente pelo candidato. Etapas que exijam áudio, vídeo, câmera, microfone ou compartilhamento de tela exigem participação pessoal do candidato e não devem ser automatizadas.
 
 ## Publicação no Git
 

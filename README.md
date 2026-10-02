@@ -20,3 +20,5 @@ Os status, links públicos de vagas e histórico de acompanhamento são publicad
 ## Atualização
 
 Cada sessão relevante deve atualizar a planilha pública, acrescentar uma entrada datada em `docs/DIARIO.md` e registrar as mudanças em um commit.
+
+Última atualização: 02/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório.

@@ -2,7 +2,7 @@
 
 ## Perfil técnico
 
-Foco em engenharia de software backend e produtos de dados, com projetos próprios em Python, C#/.NET, APIs REST, PostgreSQL, SQL, Docker, Git/GitHub, testes automatizados e integração de IA.
+Foco em engenharia de software backend, full stack, automação e produtos de dados, com experiência profissional atual na Performance Lab e atuação via CNPJ em software e automação. Stack principal: Python, C#/.NET, PHP, JavaScript/TypeScript, React, APIs REST, PostgreSQL, SQL, Docker, Git/GitHub, testes automatizados e integração de IA.
 
 ## Formação
 
@@ -10,7 +10,7 @@ Análise e Desenvolvimento de Sistemas — tecnólogo em fase final, com conclus
 
 ## Estratégia de busca
 
-Priorizar vagas júnior, associate, entry level, estágio compatível com a data de formação e vagas pleno cujo requisito real seja aderente. Bancos digitais, fintechs, meios de pagamento, software houses, consultorias de tecnologia e empresas de produto são os grupos principais.
+Priorizar vagas júnior, associate, trainee, assistente, entry level e estágio compatível com a data de formação. Vagas pleno só entram quando o requisito real for aderente a um perfil júnior; vagas sênior, staff, principal, liderança e gestão ficam fora da busca. Bancos digitais, fintechs, meios de pagamento, software houses, consultorias de tecnologia e empresas de produto são os grupos principais.
 
 ## Regra de diploma
 
