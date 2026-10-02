@@ -29,4 +29,4 @@ Fonte atualizada em 21/09/2026: 62 candidaturas confirmadas, 99 itens em control
 
 ### Estado de referência da planilha
 
-Fonte atualizada em 02/10/2026: 83 candidaturas confirmadas, 162 itens em controle e 71 pendências. Esta é uma fotografia da planilha privada após validação de fórmulas; a cópia pública remove links autenticados e dados pessoais.
+Fonte atualizada em 02/10/2026: 83 candidaturas confirmadas, 170 itens em controle e 79 pendências. Esta é uma fotografia da planilha privada após validação de fórmulas; a cópia pública remove links autenticados e dados pessoais.
