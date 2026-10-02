@@ -11,6 +11,13 @@ Repositório público para acompanhar a busca por oportunidades em desenvolvimen
 - [`docs/PROCESSO.md`](docs/PROCESSO.md) — fluxo de trabalho e critérios de elegibilidade.
 - [`docs/RESUMO_ESTRATEGICO.md`](docs/RESUMO_ESTRATEGICO.md) — perfil, foco e regras de candidatura.
 
+## Currículo em uso
+
+O currículo mestre atual é o de desenvolvimento full stack com a experiência profissional na Performance Lab. Ele descreve, de forma verificável, a participação no KNOTEN — produto B2B que conecta operação, CRM, tarefas, telemetria e análise — com .NET 8/C#, React 18, TypeScript, PostgreSQL, APIs REST, integrações, testes, Docker, deploy e observabilidade.
+
+- [PDF — currículo full stack / Performance Lab](curriculo/CV_Guilherme_Crepaldi_FullStack_PerformanceLab_20261002.pdf)
+- [DOCX — currículo full stack / Performance Lab](curriculo/CV_Guilherme_Crepaldi_FullStack_PerformanceLab_20261002.docx)
+
 ## Privacidade
 
 Este repositório é público. A planilha publicada remove links privados de candidatura, endereços de e-mail presentes em observações e identificadores pessoais. Os arquivos originais e acessos autenticados permanecem fora do Git.
@@ -21,4 +28,4 @@ Os status, links públicos de vagas e histórico de acompanhamento são publicad
 
 Cada sessão relevante deve atualizar a planilha pública, acrescentar uma entrada datada em `docs/DIARIO.md` e registrar as mudanças em um commit.
 
-Última atualização: 02/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório.
+Última atualização: 02/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A versão pública contém 92 candidaturas confirmadas, 184 itens acompanhados e 82 pendências; os números são uma fotografia datada e não expõem acessos autenticados.

@@ -30,3 +30,15 @@ Fonte atualizada em 21/09/2026: 62 candidaturas confirmadas, 99 itens em control
 ### Estado de referência da planilha
 
 Fonte atualizada em 02/10/2026: 83 candidaturas confirmadas, 170 itens em controle e 79 pendências. Esta é uma fotografia da planilha privada após validação de fórmulas; a cópia pública remove links autenticados e dados pessoais.
+
+## 2026-10-02 — Performance Lab, Catho e candidaturas com foco híbrido/remoto
+
+- O currículo mestre foi consolidado com a experiência profissional real na Performance Lab: desenvolvimento full stack do KNOTEN, um produto B2B modular de operação, CRM, tarefas, telemetria e análise. O texto registra .NET 8/C#, React 18, TypeScript, PostgreSQL, EF Core, APIs REST, integrações, testes, Docker, deploy e observabilidade sem atribuir escala, clientes, receita ou tecnologias não comprovadas.
+- O perfil da Catho foi atualizado e confirmado pela plataforma: objetivo de Desenvolvedor Full Stack, pretensão a partir de R$ 3.000, resumo voltado a desenvolvimento/dados/automação/IA e descrições profissionais atualizadas para Performance Lab e trabalhos via CNPJ, incluindo a NOW PRO com PHP, frontend, raspagem de dados e integrações de APIs.
+- Foram confirmadas candidaturas para JETSOFT (Desenvolvedor(a) Fullstack, CLT híbrido) e MEOSST Tecnologia (Desenvolvedor Full Stack Pleno, PJ em São Paulo, salário oficial de R$ 3.500). A Suhai Seguradora também teve a candidatura de Analista de Dados Júnior híbrida finalizada de forma personalizada.
+- Duas oportunidades foram registradas sem envio para preservar a exatidão: NOVVAX pede confirmação de ao menos dois anos de atuação full stack, período ainda não documentado com precisão; Interação exige Node.js, Drizzle ORM, BullMQ/Redis e monorepo como requisitos obrigatórios atuais.
+- A cópia pública do controle foi regenerada e validada: links privados, e-mails e identificadores foram removidos antes da publicação. Avaliações, mapeamentos e entrevistas seguem registrados como etapas pessoais do candidato, sem automação.
+
+### Estado de referência da planilha
+
+Fonte atualizada em 02/10/2026: 92 candidaturas confirmadas, 184 itens em controle e 82 pendências. A planilha pública é uma cópia sanitizada do arquivo privado de operação.
