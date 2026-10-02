@@ -28,4 +28,4 @@ Os status, links públicos de vagas e histórico de acompanhamento são publicad
 
 Cada sessão relevante deve atualizar a planilha pública, acrescentar uma entrada datada em `docs/DIARIO.md` e registrar as mudanças em um commit.
 
-Última atualização: 02/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A versão pública contém 92 candidaturas confirmadas, 184 itens acompanhados e 82 pendências; os números são uma fotografia datada e não expõem acessos autenticados.
+Última atualização: 02/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A versão pública contém 93 candidaturas confirmadas, 187 itens acompanhados e 83 pendências; os números são uma fotografia datada e não expõem acessos autenticados.
