@@ -10,6 +10,7 @@ Repositório público para acompanhar a busca por oportunidades em desenvolvimen
 - [`docs/DIARIO.md`](docs/DIARIO.md) — registro cronológico das sessões e decisões.
 - [`docs/PROCESSO.md`](docs/PROCESSO.md) — fluxo de trabalho e critérios de elegibilidade.
 - [`docs/RESUMO_ESTRATEGICO.md`](docs/RESUMO_ESTRATEGICO.md) — perfil, foco e regras de candidatura.
+- [`docs/SESSAO_2026-10-03.md`](docs/SESSAO_2026-10-03.md) — organização do funil bancário, candidaturas revalidadas e pendências atuais.
 
 ## Currículo em uso
 
@@ -28,4 +29,4 @@ Os status, links públicos de vagas e histórico de acompanhamento são publicad
 
 Cada sessão relevante deve atualizar a planilha pública, acrescentar uma entrada datada em `docs/DIARIO.md` e registrar as mudanças em um commit.
 
-Última atualização: 02/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A versão pública contém 93 candidaturas confirmadas, 187 itens acompanhados e 83 pendências; os números são uma fotografia datada e não expõem acessos autenticados.
+Última atualização: 03/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A versão pública contém 97 candidaturas confirmadas, 190 itens acompanhados e 83 pendências; os números são uma fotografia datada e não expõem acessos autenticados.
