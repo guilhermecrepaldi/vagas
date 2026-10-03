@@ -50,11 +50,11 @@ Fonte atualizada em 02/10/2026: 93 candidaturas confirmadas, 187 itens em contro
 
 ## 2026-10-03 — Trilha de bancos e fintechs
 
-- Confirmadas candidaturas para C6 Bank em Monitoração Python e Sustentação RPA, para Software Engineer C# remoto na Stone e para Analista de Negócios Pleno no iFood.
+- Confirmadas candidaturas para C6 Bank em Monitoração Python e Sustentação RPA, para Software Engineer C# remoto na Stone, para Analista de Negócios Pleno no iFood e para Analista Operacional Júnior de Crédito Consignado no Banco Daycoval.
 - A estratégia passou a combinar três frentes: engenharia de produto e plataforma, automação/operações técnicas e dados/crédito/processos. A experiência B2B entra como repertório de negócio, sem ser apresentada como experiência de desenvolvimento não comprovada.
 - Continuam fora do foco funções de venda, relacionamento comercial e cargos sênior. Vagas pleno seguem elegíveis apenas quando os requisitos concretos forem compatíveis com o nível atual.
 - A cópia pública do controle foi atualizada e revisada novamente para remover dados pessoais e links privados de candidaturas.
 
 ### Estado de referência da planilha
 
-Fonte atualizada em 03/10/2026: 96 candidaturas confirmadas, 189 itens em controle e 83 pendências. Os números são uma fotografia da planilha privada após a atualização das confirmações do ciclo atual.
+Fonte atualizada em 03/10/2026: 97 candidaturas confirmadas, 190 itens em controle e 83 pendências. Os números são uma fotografia da planilha privada após a atualização das confirmações do ciclo atual.
