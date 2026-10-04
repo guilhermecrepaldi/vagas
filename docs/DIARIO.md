@@ -58,3 +58,13 @@ Fonte atualizada em 02/10/2026: 93 candidaturas confirmadas, 187 itens em contro
 ### Estado de referência da planilha
 
 Fonte atualizada em 03/10/2026: 97 candidaturas confirmadas, 190 itens em controle e 83 pendências. Os números são uma fotografia da planilha privada após a atualização das confirmações do ciclo atual.
+
+## 2026-10-04 — Auditoria exclusiva de pendências
+
+- Foi publicado um relatório sanitizado das 83 pendências da planilha privada, separado por avaliações pessoais, CAPTCHAs, dados cadastrais, uploads, revalidações, confirmações ausentes e itens mantidos em espera.
+- O relatório explica por que cada item ficou pendente e qual ação concreta o encerra. Candidaturas já enviadas não foram classificadas como pendência somente por exigirem acompanhamento de e-mail.
+- Nenhuma candidatura, resposta de teste ou dado pessoal foi alterado nesta auditoria. A publicação serve para priorizar a retomada manual sem reaplicações duplicadas nem respostas imprecisas.
+
+### Estado de referência da planilha
+
+Fonte auditada em 04/10/2026: 97 candidaturas confirmadas, 190 itens em controle e 83 pendências. A contagem é uma fotografia da planilha privada; a lista pública remove links autenticados e dados pessoais.
