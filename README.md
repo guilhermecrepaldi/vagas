@@ -12,6 +12,7 @@ Repositório público para acompanhar a busca por oportunidades em desenvolvimen
 - [`docs/RESUMO_ESTRATEGICO.md`](docs/RESUMO_ESTRATEGICO.md) — perfil, foco e regras de candidatura.
 - [`docs/SESSAO_2026-10-03.md`](docs/SESSAO_2026-10-03.md) — organização do funil bancário, candidaturas revalidadas e pendências atuais.
 - [`docs/PENDENCIAS_2026-10-04.md`](docs/PENDENCIAS_2026-10-04.md) — lista operacional completa das pendências, motivo de cada uma e ação necessária.
+- [`docs/LAUDO_AIAPPLY_2026-10-07.md`](docs/LAUDO_AIAPPLY_2026-10-07.md) — comparação da AIApply com o processo atual, reputação pública, riscos e forma segura de um eventual piloto.
 
 ## Currículo em uso
 
@@ -30,4 +31,4 @@ Os status, links públicos de vagas e histórico de acompanhamento são publicad
 
 Cada sessão relevante deve atualizar a planilha pública, acrescentar uma entrada datada em `docs/DIARIO.md` e registrar as mudanças em um commit.
 
-Última atualização documental: 04/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A fotografia operacional mais recente contém 97 candidaturas confirmadas, 190 itens acompanhados e 83 pendências; o relatório de pendências explica quais delas exigem ação, revalidação ou apenas decisão consciente. Os números não expõem acessos autenticados.
+Última atualização documental: 07/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A fotografia operacional de 04/10 contém 97 candidaturas confirmadas, 190 itens acompanhados e 83 pendências; o relatório de pendências explica quais delas exigem ação, revalidação ou apenas decisão consciente. Os números não expõem acessos autenticados.

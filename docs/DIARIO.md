@@ -68,3 +68,10 @@ Fonte atualizada em 03/10/2026: 97 candidaturas confirmadas, 190 itens em contro
 ### Estado de referência da planilha
 
 Fonte auditada em 04/10/2026: 97 candidaturas confirmadas, 190 itens em controle e 83 pendências. A contagem é uma fotografia da planilha privada; a lista pública remove links autenticados e dados pessoais.
+
+## 2026-10-07 — Laudo comparativo da AIApply
+
+- Publicado um laudo com os recursos oficiais da AIApply, comparação com o processo de busca já adotado, preços públicos, privacidade, termos, relatos de comunidade e sinais de reclamação.
+- A conclusão é usar a ferramenta, se houver interesse futuro, somente como apoio em modo de revisão humana e em piloto pequeno. Auto Apply, modo híbrido, Interview Buddy, conexão de e-mail e compartilhamento de documentos não foram recomendados para o fluxo atual.
+- Nenhuma conta, assinatura, currículo, e-mail, dado pessoal ou candidatura foi enviada à AIApply nesta pesquisa.
+- O laudo separa avaliações de usuários de fatos confirmados: elogios a economia de tempo não comprovam efetividade de contratação; reclamações sobre cobrança, filtros e suporte também são relatos, não decisão de fraude.
