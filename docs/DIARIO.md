@@ -94,3 +94,10 @@ Fonte auditada em 04/10/2026: 97 candidaturas confirmadas, 190 itens em controle
 - A Performance Lab passou a constar como prestação de serviços encerrada entre dezembro de 2025 e outubro de 2026. A descrição limita-se a desenvolvimento full stack, integrações, automações, automação industrial com sensores, PHP/frontend, web scraping e pesquisa de dados; não cita clientes pelo nome nem sugere vínculo CLT.
 - Mantida a Falcon como experiência comercial B2B, separada da experiência técnica. A formação em ADS foi corrigida para conclusão prevista em dezembro de 2026, com três disciplinas restantes.
 - Foram revisadas visualmente e publicadas versões PDF e DOCX de integrações, full stack, backend/fintech e fintech. Todas permanecem em uma página.
+
+## 2026-10-08 — Estágio em BI/Auditoria no FGC
+
+- A candidatura para Estágio em Business Intelligence - Auditoria no Fundo Garantidor de Créditos foi finalizada na Gupy e a plataforma exibiu a confirmação de candidatura concluída.
+- A apresentação foi adaptada à vaga com foco em dados, BI, auditoria e governança. Foram destacadas SQL, PostgreSQL e Python, sem afirmar domínio de Power BI/DAX além do interesse em aprofundá-los.
+- O pacote divulgado pela vaga é bolsa de R$ 2.500,00, VR de R$ 990,52 e VT integral, em modelo híbrido na Faria Lima. A condição ainda a validar é a duração do termo de estágio diante da conclusão prevista de ADS em dezembro de 2026.
+- A planilha privada de controle foi atualizada para 98 candidaturas confirmadas e 191 itens em controle. A cópia pública não recebeu dados pessoais, respostas do formulário ou links autenticados.

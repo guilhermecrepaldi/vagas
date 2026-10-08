@@ -6,7 +6,7 @@ Esta é a fila de trabalho derivada do Processo V2 para bancos, fintechs, crédi
 
 Critério usado neste recorte: São Paulo/Grande São Paulo, remoto ou híbrido quando possível; atividades técnicas, de dados ou de operações financeiras orientadas por tecnologia; remuneração-base acima de R$ 2.000 ou pacote monetário verificável próximo/superior a R$ 3.000. Benefícios não são tratados como salário.
 
-## P0 — priorizar após revisão da candidatura
+## P0 — candidatura finalizada em 08/10
 
 ### Fundo Garantidor de Créditos — Estágio em Business Intelligence - Auditoria
 
@@ -14,8 +14,9 @@ Critério usado neste recorte: São Paulo/Grande São Paulo, remoto ou híbrido 
 - **Por que entra:** ADS é aceito explicitamente. A atuação combina dados, dashboards, Excel/Power BI, bancos de dados, automação/ETL, controles, riscos e melhoria de processos. É uma entrada no ecossistema financeiro por dados e governança, não uma vaga comercial.
 - **Remuneração divulgada:** bolsa de R$ 2.500,00 + VR de R$ 990,52 = R$ 3.490,52 mensuráveis por mês, além de vale-transporte integral e demais benefícios.
 - **Modelo:** híbrido, com três dias presenciais na Faria Lima e dois remotos.
-- **Elegibilidade conhecida:** ensino superior em andamento, incluindo ADS. A página não informa previsão mínima de formatura nem prazo de inscrição; confirmar no formulário antes de enviar.
-- **Ação seguinte:** preparar currículo de dados/integrações e apresentação que destaque SQL, APIs, automação, Excel e projetos de produto. Não há candidatura registrada neste documento.
+- **Elegibilidade conhecida:** ensino superior em andamento, incluindo ADS. A página não informa previsão mínima de formatura nem duração mínima do estágio. A duração do termo precisa ser validada com a faculdade e o FGC, pois a conclusão acadêmica está prevista para dezembro de 2026.
+- **Status:** candidatura finalizada e confirmada pela Gupy em 08/10, com apresentação personalizada para dados, BI e auditoria. Foram destacados SQL, PostgreSQL e Python.
+- **Ação seguinte:** acompanhar e-mail e Gupy; não há avaliação audiovisual declarada nas etapas atuais.
 
 ## P1 — processo já existente, condicionado à formação
 
