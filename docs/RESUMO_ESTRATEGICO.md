@@ -2,7 +2,7 @@
 
 ## Perfil técnico
 
-Foco em engenharia de software backend, full stack, automação e produtos de dados, com experiência profissional atual na Performance Lab e atuação via CNPJ em software e automação. Stack principal: Python, C#/.NET, PHP, JavaScript/TypeScript, React, APIs REST, PostgreSQL, SQL, Docker, Git/GitHub, testes automatizados e integração de IA.
+Foco em desenvolvimento backend, full stack, automação e produtos de dados, com atuação contínua como freelancer para clientes diversos desde 2019. Entre dezembro de 2025 e outubro de 2026, a Performance Lab foi uma estrutura de prestação de serviços para soluções full stack e automação; essa atividade está encerrada. A Insight Trade é citada como cliente freelance entre 2019 e dezembro de 2021. Stack principal: Python, C#/.NET, PHP, JavaScript/TypeScript, React, APIs REST, PostgreSQL, SQL, Docker, Git/GitHub, testes automatizados e integração de IA.
 
 ## Formação
 

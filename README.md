@@ -18,12 +18,18 @@ Repositório público para acompanhar a busca por oportunidades em desenvolvimen
 
 ## Currículo em uso
 
-O currículo mestre atual é o de desenvolvimento de sistemas, integrações e backend. Ele reúne projetos técnicos em Python/FastAPI e C#/.NET, APIs REST, PostgreSQL, Docker, testes automatizados e observabilidade, além de experiência freelance em PHP, CRMs e implementação de marketplace. A experiência na Insight Trade está identificada explicitamente como prestação de serviços freelance, sem sugerir vínculo CLT.
+O currículo mestre atual é o de desenvolvimento de sistemas, integrações e backend. Ele registra uma atuação contínua como freelancer para clientes diversos desde 2019, com a Insight Trade identificada como cliente de web design e desenvolvimento PHP entre 2019 e dezembro de 2021. A Performance Lab aparece como prestação de serviços encerrada em outubro de 2026, sem sugerir vínculo CLT.
 
 - [PDF — currículo de integrações atualizado](curriculo/CV_Guilherme_Crepaldi_Integracoes_Sistemas_PTBR_Atualizado_20261008.pdf)
 - [DOCX — currículo de integrações atualizado](curriculo/CV_Guilherme_Crepaldi_Integracoes_Sistemas_PTBR_Atualizado_20261008.docx)
 
-As versões full stack e backend/fintech anteriores continuam na pasta `curriculo/` como variantes para vagas específicas.
+Variantes atuais para vagas específicas:
+
+- [Full stack — PDF](curriculo/CV_Guilherme_Crepaldi_FullStack_Atualizado_20261008.pdf) e [DOCX](curriculo/CV_Guilherme_Crepaldi_FullStack_Atualizado_20261008.docx)
+- [Backend/fintech — PDF](curriculo/CV_Guilherme_Crepaldi_Backend_Fintech_Atualizado_20261008.pdf) e [DOCX](curriculo/CV_Guilherme_Crepaldi_Backend_Fintech_Atualizado_20261008.docx)
+- [Fintech — PDF](curriculo/CV_Guilherme_Crepaldi_Fintech_Atualizado_20261008.pdf) e [DOCX](curriculo/CV_Guilherme_Crepaldi_Fintech_Atualizado_20261008.docx)
+
+As versões anteriores continuam na pasta `curriculo/` como histórico.
 
 ## Privacidade
 

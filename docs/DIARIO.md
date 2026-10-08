@@ -90,7 +90,7 @@ Fonte auditada em 04/10/2026: 97 candidaturas confirmadas, 190 itens em controle
 
 ## 2026-10-08 — Currículo mestre de integrações atualizado
 
-- Atualizado o currículo mestre de desenvolvimento de sistemas, integrações e backend com a experiência na Insight Trade, identificada como prestação de serviços freelance entre 2019 e dezembro de 2021.
-- A entrada descreve somente atividades confirmadas: web design, desenvolvimento de soluções web em PHP, atuação com CRMs e implementação de marketplace em projetos digitais. Não foi acrescentado vínculo CLT, métricas, clientes finais ou tecnologias não confirmadas.
-- Corrigida a formação em ADS para conclusão prevista em dezembro de 2026, com três disciplinas restantes.
-- Publicadas versões PDF e DOCX revisadas visualmente; o documento permanece em uma página. As variantes anteriores foram preservadas para uso em vagas específicas.
+- Reorganizada a trajetória técnica para mostrar atuação contínua como desenvolvedor web freelancer para clientes diversos desde 2019. A Insight Trade foi mantida como cliente destacado, em trabalho freelance de web design e desenvolvimento PHP entre 2019 e dezembro de 2021.
+- A Performance Lab passou a constar como prestação de serviços encerrada entre dezembro de 2025 e outubro de 2026. A descrição limita-se a desenvolvimento full stack, integrações, automações, automação industrial com sensores, PHP/frontend, web scraping e pesquisa de dados; não cita clientes pelo nome nem sugere vínculo CLT.
+- Mantida a Falcon como experiência comercial B2B, separada da experiência técnica. A formação em ADS foi corrigida para conclusão prevista em dezembro de 2026, com três disciplinas restantes.
+- Foram revisadas visualmente e publicadas versões PDF e DOCX de integrações, full stack, backend/fintech e fintech. Todas permanecem em uma página.
