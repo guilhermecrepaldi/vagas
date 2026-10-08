@@ -1,5 +1,7 @@
 # Processo de acompanhamento
 
+> A versão operacional ampliada, com critérios de priorização, remuneração total, elegibilidade acadêmica, métricas e rotina, está em [`PROCESSO_V2_INTELIGENCIA_DE_CANDIDATURAS.md`](PROCESSO_V2_INTELIGENCIA_DE_CANDIDATURAS.md).
+
 ## Fluxo
 
 1. Encontrar vagas em desenvolvimento de software, dados e IA.

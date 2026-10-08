@@ -75,3 +75,15 @@ Fonte auditada em 04/10/2026: 97 candidaturas confirmadas, 190 itens em controle
 - A conclusão é usar a ferramenta, se houver interesse futuro, somente como apoio em modo de revisão humana e em piloto pequeno. Auto Apply, modo híbrido, Interview Buddy, conexão de e-mail e compartilhamento de documentos não foram recomendados para o fluxo atual.
 - Nenhuma conta, assinatura, currículo, e-mail, dado pessoal ou candidatura foi enviada à AIApply nesta pesquisa.
 - O laudo separa avaliações de usuários de fatos confirmados: elogios a economia de tempo não comprovam efetividade de contratação; reclamações sobre cobrança, filtros e suporte também são relatos, não decisão de fraude.
+
+## 2026-10-07 — Processo V2 de inteligência de candidaturas
+
+- O processo de busca foi ampliado a partir do comparativo com plataformas de autoaplicação: prioriza vagas validadas, elegibilidade acadêmica real, remuneração-base separada de benefícios, personalização factual, controle de prazos e métricas de conversão.
+- A busca passa a manter uma fila específica para bancos, fintechs, crédito, pagamentos, antifraude, seguros, dados e produto financeiro, além das frentes de desenvolvimento, automação e IA aplicada.
+- Autoenvio, respostas inventadas e automação de avaliações pessoais continuam fora do processo. A vantagem buscada é qualidade de decisão e acompanhamento, não apenas volume de candidaturas.
+
+## 2026-10-08 — Primeira fila financeira do Processo V2
+
+- A primeira rodada prioritária encontrou uma vaga ativa de Business Intelligence/Auditoria no Fundo Garantidor de Créditos, com ADS explicitamente aceito e pacote monetário divulgado de R$ 3.490,52 mensais, sem incluir transporte.
+- A triagem separou oportunidades atraentes, porém objetivamente incompatíveis com uma formação próxima: Digio exige um ano de disponibilidade, Banco ABC exige formatura em 2028, Serasa Experian exige 2028/2029 e B3 pede um a dois anos para tecnólogo em TI.
+- A fila e a regra de elegibilidade estão registradas em [`FILA_FINANCEIRA_2026-10-08.md`](FILA_FINANCEIRA_2026-10-08.md). Nenhuma nova candidatura foi enviada nesta rodada de pesquisa.

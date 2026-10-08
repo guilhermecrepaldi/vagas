@@ -9,6 +9,8 @@ Repositório público para acompanhar a busca por oportunidades em desenvolvimen
 - [`planilhas/mapa_vagas_minsait_concorrentes.xlsx`](planilhas/mapa_vagas_minsait_concorrentes.xlsx) — pesquisa de vagas da Minsait e empresas comparáveis.
 - [`docs/DIARIO.md`](docs/DIARIO.md) — registro cronológico das sessões e decisões.
 - [`docs/PROCESSO.md`](docs/PROCESSO.md) — fluxo de trabalho e critérios de elegibilidade.
+- [`docs/PROCESSO_V2_INTELIGENCIA_DE_CANDIDATURAS.md`](docs/PROCESSO_V2_INTELIGENCIA_DE_CANDIDATURAS.md) — processo aprimorado de triagem, personalização, priorização e acompanhamento de candidaturas.
+- [`docs/FILA_FINANCEIRA_2026-10-08.md`](docs/FILA_FINANCEIRA_2026-10-08.md) — fila pública, priorizada e sanitizada de estágios financeiros e de tecnologia analisados no corte atual.
 - [`docs/RESUMO_ESTRATEGICO.md`](docs/RESUMO_ESTRATEGICO.md) — perfil, foco e regras de candidatura.
 - [`docs/SESSAO_2026-10-03.md`](docs/SESSAO_2026-10-03.md) — organização do funil bancário, candidaturas revalidadas e pendências atuais.
 - [`docs/PENDENCIAS_2026-10-04.md`](docs/PENDENCIAS_2026-10-04.md) — lista operacional completa das pendências, motivo de cada uma e ação necessária.
