@@ -87,3 +87,10 @@ Fonte auditada em 04/10/2026: 97 candidaturas confirmadas, 190 itens em controle
 - A primeira rodada prioritária encontrou uma vaga ativa de Business Intelligence/Auditoria no Fundo Garantidor de Créditos, com ADS explicitamente aceito e pacote monetário divulgado de R$ 3.490,52 mensais, sem incluir transporte.
 - A triagem separou oportunidades atraentes, porém objetivamente incompatíveis com uma formação próxima: Digio exige um ano de disponibilidade, Banco ABC exige formatura em 2028, Serasa Experian exige 2028/2029 e B3 pede um a dois anos para tecnólogo em TI.
 - A fila e a regra de elegibilidade estão registradas em [`FILA_FINANCEIRA_2026-10-08.md`](FILA_FINANCEIRA_2026-10-08.md). Nenhuma nova candidatura foi enviada nesta rodada de pesquisa.
+
+## 2026-10-08 — Currículo mestre de integrações atualizado
+
+- Atualizado o currículo mestre de desenvolvimento de sistemas, integrações e backend com a experiência na Insight Trade, identificada como prestação de serviços freelance entre 2019 e dezembro de 2021.
+- A entrada descreve somente atividades confirmadas: web design, desenvolvimento de soluções web em PHP, atuação com CRMs e implementação de marketplace em projetos digitais. Não foi acrescentado vínculo CLT, métricas, clientes finais ou tecnologias não confirmadas.
+- Corrigida a formação em ADS para conclusão prevista em dezembro de 2026, com três disciplinas restantes.
+- Publicadas versões PDF e DOCX revisadas visualmente; o documento permanece em uma página. As variantes anteriores foram preservadas para uso em vagas específicas.

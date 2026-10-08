@@ -18,10 +18,12 @@ Repositório público para acompanhar a busca por oportunidades em desenvolvimen
 
 ## Currículo em uso
 
-O currículo mestre atual é o de desenvolvimento full stack com a experiência profissional na Performance Lab. Ele descreve, de forma verificável, a participação no KNOTEN — produto B2B que conecta operação, CRM, tarefas, telemetria e análise — com .NET 8/C#, React 18, TypeScript, PostgreSQL, APIs REST, integrações, testes, Docker, deploy e observabilidade.
+O currículo mestre atual é o de desenvolvimento de sistemas, integrações e backend. Ele reúne projetos técnicos em Python/FastAPI e C#/.NET, APIs REST, PostgreSQL, Docker, testes automatizados e observabilidade, além de experiência freelance em PHP, CRMs e implementação de marketplace. A experiência na Insight Trade está identificada explicitamente como prestação de serviços freelance, sem sugerir vínculo CLT.
 
-- [PDF — currículo full stack / Performance Lab](curriculo/CV_Guilherme_Crepaldi_FullStack_PerformanceLab_20261002.pdf)
-- [DOCX — currículo full stack / Performance Lab](curriculo/CV_Guilherme_Crepaldi_FullStack_PerformanceLab_20261002.docx)
+- [PDF — currículo de integrações atualizado](curriculo/CV_Guilherme_Crepaldi_Integracoes_Sistemas_PTBR_Atualizado_20261008.pdf)
+- [DOCX — currículo de integrações atualizado](curriculo/CV_Guilherme_Crepaldi_Integracoes_Sistemas_PTBR_Atualizado_20261008.docx)
+
+As versões full stack e backend/fintech anteriores continuam na pasta `curriculo/` como variantes para vagas específicas.
 
 ## Privacidade
 
@@ -33,4 +35,4 @@ Os status, links públicos de vagas e histórico de acompanhamento são publicad
 
 Cada sessão relevante deve atualizar a planilha pública, acrescentar uma entrada datada em `docs/DIARIO.md` e registrar as mudanças em um commit.
 
-Última atualização documental: 07/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A fotografia operacional de 04/10 contém 97 candidaturas confirmadas, 190 itens acompanhados e 83 pendências; o relatório de pendências explica quais delas exigem ação, revalidação ou apenas decisão consciente. Os números não expõem acessos autenticados.
+Última atualização documental: 08/10/2026. O currículo mestre atual e a cópia pública sanitizada do controle estão disponíveis neste repositório. A fotografia operacional de 04/10 contém 97 candidaturas confirmadas, 190 itens acompanhados e 83 pendências; o relatório de pendências explica quais delas exigem ação, revalidação ou apenas decisão consciente. Os números não expõem acessos autenticados.
